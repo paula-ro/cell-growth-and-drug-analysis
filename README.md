@@ -1,4 +1,4 @@
-# Estudio de la dosis de un fármaco en células tumorales
+# Evaluación de la dosis de un fármaco en células tumorales
 
 Este repositorio forma parte del trabajo fin de grado de Paula Romero Jiménez (Grado Biotecnología, itinerario computacional, UPM).
 
