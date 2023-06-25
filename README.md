@@ -20,14 +20,18 @@ En este repositorio se encuentra un cuaderno de Jupyter y un script de Python qu
 
 - El cuaderno de Jupyter **programa calculador.ipynb** que presenta el programa en un entorno interactivo implementando las funciones del script. El cuaderno guía paso a paso al usuario a través del flujo de trabajo, desde la lectura de los datos hasta los análisis y representaciones finales.
 
+Además la carpeta **datos** contiene unos archivos Excel con datos de absorbancia utilizados en este trabajo.
+
+
+
 
 ## Estructura del Repositorio
 
 ```
-├── programa calculador.ipynb
+├── datos
+├── README.md
 ├── funciones.py
-├── LICENSE
-└── README.md
+└── programa calculador.ipynb
 ```
 
 ## Requisitos
