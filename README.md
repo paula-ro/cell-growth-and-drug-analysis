@@ -42,7 +42,7 @@ Además la carpeta **datos** contiene unos archivos Excel con datos de absorbanc
 
 ## Uso
 
-1. Abre el cuaderno de Jupyter `notebook.ipynb` en Jupyter Notebook o JupyterLab.
+1. Abre el cuaderno de Jupyter `programa calculador.ipynb` en Jupyter Notebook o JupyterLab.
 
 2. Sigue las instrucciones y ejecuta las celdas para ver ejemplos de uso de las funciones.
 
