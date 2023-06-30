@@ -49,9 +49,9 @@ Además la carpeta **datos** contiene unos archivos Excel con datos de absorbanc
 3. Si deseas utilizar las funciones en otro proyecto, puedes importar el módulo `funciones.py` en tu código:
 
 ```python
-from funciones import funcion1, funcion2
+from funciones import read_file, r_total
 
 # Utiliza las funciones en tu código
-resultado = funcion1(argumento)
+resultado = read_file(argumento)
 ```
 
