@@ -1,6 +1,6 @@
 # Evaluación de la dosis de un fármaco en células tumorales
 
-Este repositorio forma parte del trabajo fin de grado de Paula Romero Jiménez (Grado Biotecnología, itinerario computacional, UPM).
+Este repositorio forma parte de mi trabajo fin de grado (Grado Biotecnología, itinerario computacional, UPM).
 
 A partir de datos de absorbancia obtenidos en ensayos MTT realizados a varios tiempos, se han calculado las tasas de crecimiento de las células. Se obtienen tasas de crecimiento diferentes según la concentración de fármaco con la que se ha realizado el tratamiento. Esta relación se puede ajustar mediante una exponencial decreciente, y a partir de este ajuste calcular el IC50 y otros parámetros, como la concentración a la que la tasa de crecimiento es 0.
 
